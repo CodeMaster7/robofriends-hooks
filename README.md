@@ -19,7 +19,7 @@ This app uses <a href="https://reactjs.org/" target="_blank">ReactJS</a> framewo
 
 For a quick preview of the site, click the link below:
 
-https://codemaster7.github.io/robofriends
+ https://codemaster7.github.io/robofriends-hooks
 
 ## Technologies Used
 ### Front-end
